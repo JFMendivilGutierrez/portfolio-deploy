@@ -1,6 +1,7 @@
 {
   "name": "my-project",
   "private": true,
+  "homepage":"https://jfmendivilgutierrez.github.io/portfolio-deploy/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
